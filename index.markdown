@@ -5,3 +5,5 @@
 layout: default
 ---
 # HELLO
+
+This is a test of courage
