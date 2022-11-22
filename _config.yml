@@ -30,9 +30,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: kraaico-theme
+theme: kraaico-theme
 plugins:
   - jekyll-feed
+  - jekyll-local-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
